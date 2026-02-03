@@ -7,7 +7,7 @@ input.onButtonPressed(Button.A, function () {
 input.onButtonPressed(Button.B, function () {
     start = 6 - 1
     score += 1
-    elapsed = 0
+    elapsed = 9
     basic.showLeds(`
         # . . . #
         . # # # .

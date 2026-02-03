@@ -1,5 +1,5 @@
 {
-    "name": "moka mko",
+    "name": "puzel",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -11,7 +11,8 @@
         "main.ts",
         "README.md",
         "pxt.json",
-        "_history"
+        "_history",
+        "main.py"
     ],
     "testFiles": [
         "test.ts"
